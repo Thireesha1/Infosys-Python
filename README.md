@@ -1,0 +1,3 @@
+Completed the Infosys Python Programming Certification, gaining strong foundational and intermediate skills in Python programming, data structures, OOP concepts, file handling, exception handling, and modular programming. The certification covered real-world problem-solving using Python, working with libraries, and writing optimized, clean, and reusable code.
+
+Built hands-on projects and solved practical exercises involving algorithmic thinking, debugging, and data manipulation. Gained exposure to automation scripts and basic data processing workflows, improving overall coding efficiency and logical reasoning.
